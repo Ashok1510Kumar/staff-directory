@@ -20,7 +20,7 @@ Before running this script, you must have Python installed on your system along 
 You can install these libraries using pip:
 
 ```bash
-pip install requests beautifulsoup4 pandas
+pip install -r requirements.txt
 ```
 
 Installation
